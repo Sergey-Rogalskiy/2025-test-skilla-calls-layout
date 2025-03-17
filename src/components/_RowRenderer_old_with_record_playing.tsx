@@ -31,7 +31,7 @@ export const _RowRenderer_old_with_record_playing: FC<RowRendererPropsType> = ({
   //         {},
   //         {
   //           headers: {
-  //             Authorization: "Bearer testtoken",
+  //             Authorization: "Bearer ...",
   //             "Content-type":
   //               "audio/mpeg, audio/x-mpeg, audio/x-mpeg-3, audio/mpeg3",
   //             "Content-Transfer-Encoding": "binary",

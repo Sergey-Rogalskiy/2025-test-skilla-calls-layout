@@ -16,7 +16,7 @@ export const useGetUniversal = (
         {},
         {
           headers: {
-            Authorization: "Bearer testtoken",
+            Authorization: `Bearer ${process.env.REACT_APP_API_BEARER}`,
           },
           params,
         }
